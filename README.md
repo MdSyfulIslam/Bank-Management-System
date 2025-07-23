@@ -1,6 +1,7 @@
 # 🏦 Bank Management System (Assembly Language - 8086)
 
 A simulation of core banking operations (like account creation, deposit, withdrawal, and display) developed using **Assembly Language** on the **Emu8086 Emulator**. This project was developed as part of the Microprocessors & Microcontrollers Lab(CSE 304) course at Green University of Bangladesh.
+
 ---
 
 ## 📋 Table of Contents
